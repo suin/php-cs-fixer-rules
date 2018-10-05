@@ -380,7 +380,7 @@ class Rules
         'whitespace_after_comma_in_array' => true,
         'yoda_style' => [
             'equal' => false,
-            'identical' => false
+            'identical' => false,
         ],
     ];
 
