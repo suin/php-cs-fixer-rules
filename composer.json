@@ -1,0 +1,38 @@
+{
+    "name": "suin/php-cs-fixer-rules",
+    "type": "library",
+    "description": "A Rule set for PHP-CS-Fixer mainly targeting PHP 7.1 or higher.",
+    "keywords": [
+        "php-cs-fixer",
+        "rules"
+    ],
+    "homepage": "https://github.com/suin/php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "suin",
+            "email": "suinyeze@gmail.com",
+            "homepage": "https://github.com/suin",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "support": {
+        "issues": "https://github.com/suin/php/issues"
+    },
+    "require": {
+        "php": ">=7.1 <7.4.0"
+    },
+    "conflict": {
+        "friendsofphp/php-cs-fixer": "<2.13"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
