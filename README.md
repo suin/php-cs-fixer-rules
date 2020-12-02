@@ -36,7 +36,7 @@ Please see [CHANGELOG](https://github.com/suin/php/blob/master/CHANGELOG.md) for
 
 ## Contributing
 
-Send [issue](https://github.com/suin/php/issues) or [pull-request](https://github.com/suin/php/pulls) to main repository.
+Send [issue](https://github.com/suin/php-cs-fixer-rules/issues) or [pull-request](https://github.com/suin/php-cs-fixer-rules/pulls) to main repository.
 
 <!-- Badges -->
 [travis-ci]: https://travis-ci.org/suin/php-cs-fixer-rules
